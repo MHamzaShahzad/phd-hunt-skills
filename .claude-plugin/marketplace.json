@@ -1,0 +1,14 @@
+{
+  "name": "phd-hunt-skills",
+  "owner": {
+    "name": "Hamza Shahzad",
+    "url": "https://github.com/MHamzaShahzad"
+  },
+  "plugins": [
+    {
+      "name": "phd-hunt",
+      "source": "./",
+      "description": "Find universities, funded PhD positions and supervisors, and write personalized outreach emails in your own voice."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# build output
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# never commit personal application data
+phd-hunt/
+profile.md
+tracker.csv
+*.eml
+**/drafts/
+**/sent/
+*CV*.pdf
+*cv*.pdf
+*transcript*

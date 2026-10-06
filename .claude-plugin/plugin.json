@@ -1,0 +1,13 @@
+{
+  "name": "phd-hunt",
+  "version": "0.1.0",
+  "description": "Skills for finding funded PhD positions: build an applicant profile, scout universities by country, shortlist funded routes, discover active researchers from papers, and run personalized professor outreach.",
+  "author": {
+    "name": "Hamza Shahzad",
+    "url": "https://github.com/MHamzaShahzad"
+  },
+  "homepage": "https://github.com/MHamzaShahzad/phd-hunt-skills",
+  "repository": "https://github.com/MHamzaShahzad/phd-hunt-skills",
+  "license": "MIT",
+  "keywords": ["phd", "academia", "scholarships", "graduate-school", "outreach", "research"]
+}
